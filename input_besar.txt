@@ -1,0 +1,31 @@
+Perangkat lunak (software) adalah program computer yang 
+terasosiasi 
+dengan dokumentasi perangkat lunak seperti 
+dokumentasi terkait analisis kebutuhan, model desain, dan user 
+manual Shalahuddin (2016). IEEE Computer Society mendefinisikan 
+Rekayasa Perangkat Lunak (RPL) sebagai penerapan suatu 
+pendekatan yang sistematis, disiplin dan terkuantifikasi atas 
+pengembangan, penggunaan dan pemeliharaan perangkat lunak, 
+serta studi atas pendekatan-pendekatan ini, yaitu penerapan 
+pendekatan engineering atas perangkat lunak. RPL sendiri adalah 
+suatu disiplin ilmu yang membahas semua aspek produksi perangkat 
+lunak, mulai dari tahap awal yaitu analisa kebutuhan pengguna, 
+menentukan spesifikasi dari kebutuhan pengguna, disain, 
+pengkodean, pengujian sampai pemeliharaan sistem setelah 
+digunakan. Dari pengertian ini jelaslah bahwa RPL tidak hanya 
+berhubungan dengan cara pembuatan program komputer. 
+Pernyataan ”semua aspek produksi” pada pengertian di atas, 
+mempunyai arti semua hal yang berhubungan dengan proses 
+produksi seperti manajemen proyek, penentuan personil, anggaran 
+biaya, metode, jadwal, kualitas sampai dengan pelatihan pengguna 
+merupakan bagian dari RPL. 
+RPL merupakan pembangunan dengan menggunakan prinsip 
+atau konsep rekayasa dengan tujuan menghasilkan perangkat lunak 
+yang bernilai ekonomi yang dipercaya dan bekerja secara efisien 
+menggunakan mesin. Perangkat lunak banyak dibuat dan pada 
+akhirnya sering tidak digunakan karena tidak memenuhi kebutuhan 
+pelanggan atau bahkan karena masalah non teknis seperti keenggan 
+pemakai perangkat (user) untuk mengubah cara kerja dari manual ke 
+otomatis, atau ketidakmampuan user menggunakan komputer. Oleh 
+karena itu, rekayasa perangkat lunak dibutuhkan agar perangkat 
+lunak yang dibuat tidak menjadi perangkat lunak yang tidak terpakai. 

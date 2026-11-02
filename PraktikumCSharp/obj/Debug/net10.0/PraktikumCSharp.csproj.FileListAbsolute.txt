@@ -1,0 +1,14 @@
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\bin\Debug\net10.0\PraktikumCSharp.exe
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\bin\Debug\net10.0\PraktikumCSharp.deps.json
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\bin\Debug\net10.0\PraktikumCSharp.runtimeconfig.json
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\bin\Debug\net10.0\PraktikumCSharp.dll
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\bin\Debug\net10.0\PraktikumCSharp.pdb
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.dll
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\refint\PraktikumCSharp.dll
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.pdb
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\PraktikumCSharp.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Dokumen\SEMESTER 5\PEMROGRAMMAN JARINGAN\PRAKTEK\praktikum chapter 5\PraktikumCSharp\obj\Debug\net10.0\ref\PraktikumCSharp.dll
